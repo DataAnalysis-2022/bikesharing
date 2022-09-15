@@ -20,7 +20,7 @@ The results are summarized in the following charts:
 
 [link to Checkout Time for Users](https://public.tableau.com/app/profile/data.viz.2022/viz/bikesharing-checkout-time/CheckoutTimeForUsers?publish=yes)
 
-![image-20220914214649864](Resources\image-20220914214649864.png)
+![image-20220914214649864](Resources/image-20220914214649864.png)
 
 
 
@@ -32,7 +32,7 @@ The results are summarized in the following charts:
 
 
 
-![image-20220914214951410](Resources\image-20220914214951410.png)
+![image-20220914214951410](Resources/image-20220914214951410.png)
 
 
 
@@ -40,7 +40,7 @@ The results are summarized in the following charts:
 
 ​	[link to Trips by Weekdays per Hour](https://public.tableau.com/app/profile/data.viz.2022/viz/bikesharing-TripsbyWeekdayperHour/TripsbyWeekdayperHour?publish=yes)
 
-![image-20220914215422142](Resources\image-20220914215422142.png)
+![image-20220914215422142](Resources/image-20220914215422142.png)
 
 
 
@@ -50,7 +50,7 @@ The results are summarized in the following charts:
 
 
 
-![image-20220914215734277](Resources\image-20220914215734277.png)
+![image-20220914215734277](Resources/image-20220914215734277.png)
 
 - Trips by Gender by Weekdays for customer type :  it shows most users are the male subscribers on the weekdays.
 
@@ -62,7 +62,7 @@ The results are summarized in the following charts:
 
   [link Average Trip Duration by Age](https://public.tableau.com/app/profile/data.viz.2022/viz/bikesharing-AverageTripDurationbyAge/AvgTripDuration?publish=yes)
 
-  ![image-20220914220517300](Resources\image-20220914220517300.png)
+  ![image-20220914220517300](Resources/image-20220914220517300.png)
 
 
 
@@ -70,7 +70,7 @@ The results are summarized in the following charts:
 
   [link of Top End Stations](https://public.tableau.com/app/profile/data.viz.2022/viz/bikesharing_16626810023040/TopStartStations)
 
-![image-20220914221726843](Resources\image-20220914221726843.png)
+![image-20220914221726843](Resources/image-20220914221726843.png)
 
 
 
